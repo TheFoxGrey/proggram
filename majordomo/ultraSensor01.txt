@@ -1,0 +1,13 @@
+Описание класса ultraSensor
+
+Main
+    title - ultraSensor
+propeties
+    title - sm
+         history - 7
+methods
+    title - statusChanged
+         $u=round($params['u'],1);
+         $this->setProperty('sm',$u);
+objects
+     title - ultraSensor01

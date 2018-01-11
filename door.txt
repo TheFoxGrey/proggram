@@ -1,0 +1,15 @@
+Описание класса door
+
+Main
+    title - door
+propeties
+    title - status
+         history - 7
+    title - otvet
+         history - 7
+methods
+    title - statusChanged
+         $d=round($params['d'],1);
+         $this->setProperty('status',$d);
+objects
+     title - door

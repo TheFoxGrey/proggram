@@ -1,0 +1,13 @@
+Описание класса fireSensor
+
+Main
+    title - fireSensor
+propeties
+    title - status
+         history - 7
+methods
+    title - statusChanged
+         $f=round($params['f'],1);
+         $this->setProperty('status',$f);
+objects
+     title - fireSensor1

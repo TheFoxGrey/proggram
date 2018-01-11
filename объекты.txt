@@ -1,0 +1,16 @@
+door (status, otvet)
+
+ultraSensor01 (sm)
+
+rainSensor01 (status)
+ 
+MotionSensor1 (status)+
+
+gazSensor1 (status)
+
+TempSensor01 (status, temp) +
+
+humSensor01 (humidity, status) + 
+
+fireSensor1 (status)
+

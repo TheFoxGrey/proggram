@@ -1,0 +1,13 @@
+Описание класса gazSensor
+
+Main
+    title - gazSensor
+propeties
+    title - status
+         history - 7
+methods
+    title - statusChanged
+         $g=round($params['g'],1);
+         $this->setProperty('status',$g);
+objects
+     title - gazSensor1
