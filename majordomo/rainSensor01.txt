@@ -1,0 +1,13 @@
+Описание класса rainSensor
+
+Main
+    title - rainSensor
+propeties
+    title - status
+         history - 7
+methods
+    title - statusChanged
+         $r=round($params['r'],1);
+         $this->setProperty('status',$r);
+objects
+     title - rainSensor01
